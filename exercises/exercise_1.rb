@@ -1,4 +1,4 @@
-require_relative '../setup'
+require_relative '../setup.rb'
 
 puts "Exercise 1"
 puts "----------"
